@@ -103,6 +103,7 @@
 - [Screen Sizes](http://screensiz.es/) (移动屏幕尺寸)
 - [Habitica](https://habitica.com/) (游戏化 Todo)
 - [Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF 压缩，PDF 转 PPT，Word，Excel 等等都可以直接通过这个页面实现)
+- [Practical Web Tools](https://practicalwebtools.com/) - 1,400+ 免费浏览器工具：PDF 编辑/转换、图片/音频格式转换、200+ 计算器，全部本地处理
 - [草料二维码](https://cli.im/) (在线生成二维码)
 - [声享](https://ppt.baomitu.com) (在线制作 PPT)
 - [幕布](https://mubu.com/) (极简大纲笔记，一键生成思维导图)
